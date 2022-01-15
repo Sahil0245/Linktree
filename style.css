@@ -4,6 +4,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 15px;
   letter-spacing: 2px;
+  background-image: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 }
 
 img {
@@ -37,20 +38,21 @@ img {
   border-radius: 40px;
 }
 
-a{
-    text-decoration: none;
-    color: white;
-    transition: color 1s;
+a {
+  text-decoration: none;
+  color: white;
+  transition: color 1s;
 }
 
-.bottom-text{
-    text-align: center;
-    margin-top: 40px;
-    font-size: 11px;
-    font-weight: unset;
+.bottom-text {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 11px;
+  font-weight: unset;
 }
 
-a:hover{
-    color: #000;
-    background :#fff;
+a:hover {
+  color: #000;
+  background: #fff;
+  background-image: linear-gradient(to right top, #d16ba5, #c175b4, #af7ebf, #9d86c5, #8c8dc6, #8198d0, #76a3d7, #6caedc, #5cc2ea, #4ed6f2, #4ce9f5, #5ffbf1);
 }
